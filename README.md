@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @TejaSaii
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Spring REST
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Tejas7822@gmail.com
 
 <!---
