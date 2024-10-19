@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @TejaSaii
-- 👀 I’m interested in Web Development
+- 👀 A SDET with 3 years of exp with UI and API automation
+- A self taught full stack developer
 - 📫 How to reach me Tejas7822@gmail.com
 
 <!---
